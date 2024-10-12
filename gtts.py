@@ -12,4 +12,4 @@ def tts(text):                       # to customiz accents change tld as doc say
         play(audio)
     except Exception as e:
         print(f"Error playing audio: {e}")
-tts('my favourite anime is a slime. bharat is best.')
+tts('my name is gtts. and you ')
