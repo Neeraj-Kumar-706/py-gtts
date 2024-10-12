@@ -20,13 +20,19 @@ This project requires the following dependencies:
 * urllib3==2.2.3
 
 You can install these dependencies using pip:
+
+### Example as module
 ```bash
 pip install -r requirements.txt
 
-### Example as module
-'''
+
 from gtts import tts
 
 tts('hello. hi, sir how are you. my name shreya')
-'''
+
 Note that I've included the requirements from `requirements.txt` in the README file, as well as a brief description of the project and its usage. I've also included the license and credits information from the `LICENSE` file. Let me know if you'd like me to make any changes!
+```
+
+### gTTS doc
+for localiz accent use --tld custom
+refre this link https://gtts.readthedocs.io/en/latest/module.html#localized-accents

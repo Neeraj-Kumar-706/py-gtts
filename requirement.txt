@@ -6,3 +6,4 @@ idna==3.10
 pydub==0.25.1
 requests==2.32.3
 urllib3==2.2.3
+pip==24.2
